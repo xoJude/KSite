@@ -135,7 +135,7 @@ main {
     margin-top: 20px;
 }
 
-/* Cards services */
+
 .service-card {
     display: flex;
     gap: 20px;
@@ -143,17 +143,17 @@ main {
 }
 
 .service-image {
-    /* background: white;  ❌ retiré */
+  
     border-radius: 10px;
-    padding: 10px; /* ❌ on enlève le padding qui créait une marge blanche autour */
-    width: 350px; /* ✅ légèrement plus grand qu’avant (300px) */
+    padding: 10px; 
+    width: 350px; 
 }
 
 
 .service-image img {
     width: 100%;
     border-radius: 10px;
-    display: block; /* évite les petits espaces en dessous */
+    display: block; 
 }
 
 .service-description {
