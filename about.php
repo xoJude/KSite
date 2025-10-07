@@ -23,7 +23,7 @@
                     <img src="images/avocat1.jpg" alt="Maître Kessentini">
                 </div>
                 <div class="service-description">
-                    <h3>Maître [Prénom] Kessentini</h3>
+                    <h3>Maître Kessentini</h3>
                     <p><strong>Avocat associé - Droit des affaires</strong></p>
                     <p>Diplômé de [Université], Maître Kessentini a débuté sa carrière en 2010 au sein de prestigieux cabinets parisiens. Spécialisé en droit commercial et droit des sociétés, il a accompagné de nombreuses entreprises dans leur développement.</p>
                     <p>Fort de plus de 13 ans d'expérience, il met son expertise au service des PME et grandes entreprises pour les conseiller dans leurs stratégies juridiques et leurs opérations de croissance.</p>
@@ -36,9 +36,9 @@
                     <img src="images/avocat2.jpg" alt="Maître Kessentini">
                 </div>
                 <div class="service-description">
-                    <h3>Maître [Prénom] Kessentini</h3>
+                    <h3>Maître Massila</h3>
                     <p><strong>Avocate associée - Droit de la famille</strong></p>
-                    <p>Diplômée de [Université] avec mention, Maître Kessentini exerce depuis 2012. Passionnée par le droit de la famille et le droit des personnes, elle a développé une approche humaine et bienveillante de son métier.</p>
+                    <p>Diplômée de cette université avec mention, Maître Massila exerce depuis 2012. Passionnée par le droit de la famille et le droit des personnes, elle a développé une approche humaine et bienveillante de son métier.</p>
                     <p>Elle accompagne ses clients dans les moments les plus délicats de leur vie : divorces, successions, protection des mineurs. Son écoute et sa rigueur font d'elle une avocate reconnue et respectée.</p>
                 </div>
             </div>
